@@ -49,4 +49,5 @@
 .one:hover{
   background-color: pink;
   color: black;
+  font-size: 20px;
 }
